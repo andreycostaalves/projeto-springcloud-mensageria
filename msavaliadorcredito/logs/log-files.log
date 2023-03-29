@@ -39,3 +39,4 @@
 2023-03-29 11:52:32.610  INFO 18716 --- [http-nio-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
 2023-03-29 11:52:32.620  INFO 18716 --- [http-nio-auto-1-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
 2023-03-29 11:52:49.566  INFO 18716 --- [http-nio-auto-1-exec-8] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 627 ms
+2023-03-29 11:56:26.391  INFO 18716 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
