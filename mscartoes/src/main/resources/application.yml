@@ -19,3 +19,14 @@ eureka:
 mq:
   queues:
     emissao-cartoes: emissao-cartoes
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+logging:
+  file:
+    name: ./logs/log-files.log
