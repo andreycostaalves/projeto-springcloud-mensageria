@@ -48,14 +48,7 @@ Todos cadastrados no Eureka server, administrando as requisições via api gatew
 * Docker
 * H2 DATABASE
 
-## Observações
 
-* Após fazer clone do projeto, e executar atraves de um dos perfis application.yml ou via docker com "prod", acessar os clients a partir desses links:
-
-* RABBITMQ : http://localhost:15672/#/
-* EUREKA CLIENT : http://localhost:8761/
-* kEYCLOAK : http://localhost:8081/admin/ - Login de acesso a app.
-* SWAGGER-UI : (PORTA RANDÔMICA) /swagger-ui/index.html#/
 
 <a href="https://www.linkedin.com/in/andrey-costa-927458164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "andreyalvescontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
