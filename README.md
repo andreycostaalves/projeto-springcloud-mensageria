@@ -3,9 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <a href="https://github.com/andreycostaalves">
-    <img src="https://aux.iconspalace.com/uploads/1421321576980686818.png" width=50">
-  </a>
+  
    BEM VINDO! 
 </h1>
 
